@@ -8,6 +8,7 @@
 ## Example usage
 > Once everything is installed run a jupyter notebook from the directory or navigate once the notebook is open.  Click on Kernel and Click on Restart and Run All Code.  All the code will be run including the training.  Once completed you should be able to import a stock into the system and predict where it will close the next business day. 
 
-
-License and author info
-This code is copyright by Kevin Robertson.  It is free for anyone to use, as long as you cite this page. 
+## Meta
+Kevin Robertson
+Open License - Please cite anything you use from here.
+[https://github.com/kwrjcr/machinelearningnanodegreecapstone]
